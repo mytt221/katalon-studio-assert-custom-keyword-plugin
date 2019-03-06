@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify the keyword of assert a date time</description>
+   <name>Sample_DateTimeAssert</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42de5eae-57de-44ee-b675-07da67c6a2df</testCaseGuid>
+</TestCaseEntity>
