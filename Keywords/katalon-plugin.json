@@ -1,3 +1,10 @@
 {
-	"keywords": ["kms.turing.katalon.plugins.helper.table.HTMLTableHelper"]
+	"keywords": [
+		"kms.turing.katalon.plugins.assertj.BooleanAssert",
+		"kms.turing.katalon.plugins.assertj.DateTimeAssert",
+		"kms.turing.katalon.plugins.assertj.GenericAssert",
+		"kms.turing.katalon.plugins.assertj.ListAssert",
+		"kms.turing.katalon.plugins.assertj.NumberAssert",
+		"kms.turing.katalon.plugins.assertj.StringAssert"
+	]
 }
